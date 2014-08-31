@@ -24,5 +24,6 @@ TODO: Add documentation
  * [Neal Conrad](mailto:nconrad@mcs.anl.gov)
  * [Matt Henderson](mailto:mhenderson@lbl.gov)
  * [Shiran Pasternak](mailto:shiran@cshl.edu)
+ * [Guruprasad Kora](mailto:koragh@ornl.gov)
  * [Bill Riehl](mailto:wjriehl@lbl.gov)
  * [Jim Thomason](mailto:thomason@cshl.edu)
